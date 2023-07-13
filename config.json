@@ -1,0 +1,17 @@
+{
+  "layout": "level1.txt",
+  "time_controls": {
+    "player": {
+      "seconds": 180,
+      "increment": 2
+    },
+    "cpu": {
+      "seconds": 180,
+      "increment": 2
+    }
+  },
+  "player_colour": "black",
+  "piece_movement_speed": 6.0,
+  "max_movement_time": 1
+}
+
